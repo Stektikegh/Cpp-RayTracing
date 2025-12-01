@@ -1,0 +1,11 @@
+/out
+bin/
+build/
+/.vs
+.idea/
+.cache/
+vcpkg_installed/
+CMakeSettings.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
