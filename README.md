@@ -5,7 +5,7 @@ A simple CPU-based ray tracer written in C++ with Raylib.
 ---
 
 ## Requirements
-- **C++
+- **C++**
 - **Raylib** or **vcpkg**
 
 ## Building
